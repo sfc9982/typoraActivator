@@ -3,7 +3,7 @@
 ![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FMas0nShi%2FtyporaCracker.svg?type=shield)
 ![GitHub](https://img.shields.io/github/license/Mas0nShi/typoraCracker)
 
-A extract & decryption and pack & encryption tools for typora.
+A extract & decryption and pack & encryption tools for TiePoorRua.
 
 中文说明请戳[这里](README_CN.md)
 
@@ -66,5 +66,3 @@ serial: XXXXXX-XXXXXX-XXXXXX-XXXXXX
 
 ## LICENSE
  MIT LICENSE
-
-[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FMas0nShi%2FtyporaCracker.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FMas0nShi%2FtyporaCracker?ref=badge_large)
