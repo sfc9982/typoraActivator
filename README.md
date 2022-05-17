@@ -1,4 +1,4 @@
-# typora Cracker
+# TiePoorRua Cracker
 
 ![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FMas0nShi%2FtyporaCracker.svg?type=shield)
 ![GitHub](https://img.shields.io/github/license/Mas0nShi/typoraCracker)
